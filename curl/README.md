@@ -53,6 +53,13 @@ Note: In this last command with POST method, we're using two times the
 flag **-H** to specify the Cookies and the **Content Type**
 
 
+### Especifying headers with **JWT**
+```bash
+curl -s -X GET "http://<url address>" -H "Authorization: Bearer <your jwt>"
+```
+Note: As you can see after the word *Bearer* sould be an space followed by the jwt token
+
+
 
 
 
