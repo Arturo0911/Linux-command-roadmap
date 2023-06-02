@@ -1,2 +1,3 @@
 # Linux-command-roadmap
-Repository for the vast command lines and scripts utilities in Linux system.
+
+The vast amount of scripts, command line in linux systems.
